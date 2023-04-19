@@ -8,7 +8,7 @@ const about = {
   role: 'Blockchain Developer',
   description:
     'As a Blockchain Developer with expertise in Solidity, Ethereum, Hyperledger, and JavaScript. Experienced in smart contract development, dApps, and front-end interfaces, including ERC-20 and ERC-721 tokens. I possess a deep understanding of Hyperledger-Fabric. My focus is on innovation, providing valuable solutions to complex problems in the field of blockchain technology.',
-  resume: '',
+  resume: 'https://drive.google.com/file/d/1IBGBXTrPce-xZeEeYwIa-c1B883FuFEj/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/shivrajphadtare/',
     github: 'https://github.com/shivraj203/',
