@@ -8,7 +8,7 @@ const about = {
   role: 'Blockchain Developer',
   description:
     'As a Blockchain Developer with expertise in Solidity, Ethereum, Hyperledger, and JavaScript. Experienced in smart contract development, dApps, and front-end interfaces, including ERC-20 and ERC-721 tokens. I possess a deep understanding of Hyperledger-Fabric. My focus is on innovation, providing valuable solutions to complex problems in the field of blockchain technology.',
-  resume: 'https://drive.google.com/file/d/1IBGBXTrPce-xZeEeYwIa-c1B883FuFEj/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/12YCemz8WYsfEsNyEYnZ8OHWPA58ZrZvu/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/shivrajphadtare/',
     github: 'https://github.com/shivraj203/',
@@ -16,6 +16,13 @@ const about = {
 }
 
 const projects = [
+  {
+    name: 'Drug Counterfeiting Problem',
+    description:
+      'The contract includes several data structures and functions to facilitate the registration of companies, addition of drugs by manufacturers, creation of purchase orders (PO) by buyers, creation of shipments by sellers, updating shipments by transporters, and retailing drugs by retailers. This aims to enable the management and tracking of drugs throughout the supply chain, ensuring transparency and accountability among the involved parties.',
+    stack: ['Solidity','Javascript','Hardhat'],
+    sourceCode: 'https://github.com/shivraj203/Drug-Counterfeiting-Problem', 
+  },
   {
     name: 'E-Voting Smart Contract',
     description:
